@@ -7,7 +7,7 @@ This is a Property Management System designed to handle resident information and
 - Locate the database folder.
 Import the SQL file provided (security.sql) into your MySQL database management tool.
 - This will create the necessary tables and populate them with sample data.
-Requirements
+## Requirements
 - Latest PHP version.
 - Server environment (e.g., XAMPP) to run the application locally.
 ## Security Login Details
