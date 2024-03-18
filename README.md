@@ -11,8 +11,10 @@ Import the SQL file provided (security.sql) into your MySQL database management 
 - Latest PHP version.
 - Server environment (e.g., XAMPP) to run the application locally.
 ## Security Login Details
+-  **Security Side login page** "security.php"
 - **Username: info@property.com**
 - **Password: 12345**
+- **Resident login page** "index.php"
 ## Usage
 - Start your XAMPP server or any other server environment.
 - Access the application via your web browser (e.g., http://localhost/property_management).
